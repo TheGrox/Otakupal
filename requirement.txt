@@ -1,4 +1,6 @@
 Flask
 python-dotenv
+Jikanpy
+Groq
+mysql-connector-python
 requests
-groq
