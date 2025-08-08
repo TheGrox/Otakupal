@@ -4,4 +4,3 @@ Jikanpy
 Groq
 mysql-connector-python
 requests
-Gunicorn
